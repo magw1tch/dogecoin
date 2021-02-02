@@ -1,4 +1,4 @@
-# PUGcoin Core [PUG, Ð]
+# PUGcoin Core [PUG]
 ==========================
 
 ![PUGcoin](https://i.ibb.co/rtp01CX/pug.jpg)
@@ -8,7 +8,7 @@
 ## What is PUGcoin? – Such coin
 PUGcoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, PUGcoin currently employs a simplified variant of scrypt.
 
-http://PUGcoin.com/
+http://PUG-coin.com/
 
 ## License – Much license
 PUGcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
