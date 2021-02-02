@@ -1,7 +1,7 @@
 # PUGcoin Core [PUG, Ð]
 ==========================
 
-![PUGcoin](https://ibb.co/H2P4kW9)
+![PUGcoin](https://i.ibb.co/rtp01CX/pug.jpg)
 
 [![Build Status](https://travis-ci.org/PUGcoin/PUGcoin.svg?branch=1.14-dev)](https://travis-ci.org/PUGcoin/PUGcoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/PUGcoin/PUGcoin)
 
