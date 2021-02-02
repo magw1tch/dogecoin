@@ -1,7 +1,7 @@
 # PUGcoin Core [PUG, Ð]
 ==========================
 
-![PUGcoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![PUGcoin](https://stevieboy2k-blog.tumblr.com/post/642007790545698816)
 
 [![Build Status](https://travis-ci.org/PUGcoin/PUGcoin.svg?branch=1.14-dev)](https://travis-ci.org/PUGcoin/PUGcoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/PUGcoin/PUGcoin)
 
